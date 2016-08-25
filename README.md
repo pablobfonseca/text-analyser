@@ -2,6 +2,9 @@
 
 This is a pretty simple text analyser written in Ruby.
 
+## Usage
+[TODO]
+
 ## Demo
 ```
 ==============================
@@ -16,4 +19,11 @@ Report
 2 sentences per paragraph (average)
 24 words per sentence (average)
 ==============================
+```
+
+## Running the tests
+It uses [minitest](https://github.com/seattlerb/minitest) to run the tests.
+There is a rake task to run all tests, just type:
+```ruby
+rake
 ```
