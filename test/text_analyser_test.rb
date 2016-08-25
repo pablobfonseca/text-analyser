@@ -1,6 +1,4 @@
-require 'minitest/autorun'
-require 'minitest/pride'
-require_relative '../lib/text_analyser'
+require 'test_helper'
 
 class TextAnalyserTest < Minitest::Test
   def setup

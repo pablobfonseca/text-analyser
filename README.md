@@ -1,4 +1,9 @@
 ## Ruby Text Analyser
+[![Code
+Climate](https://codeclimate.com/github/pablobfonseca/text-analyser/badges/gpa.svg)](https://codeclimate.com/github/pablobfonseca/text-analyser)
+[![Test
+Coverage](https://codeclimate.com/github/pablobfonseca/text-analyser/badges/coverage.svg)](https://codeclimate.com/github/pablobfonseca/text-analyser/coverage)
+
 
 This is a pretty simple text analyser written in Ruby.
 
