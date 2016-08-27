@@ -8,7 +8,15 @@ Status](https://travis-ci.org/pablobfonseca/text-analyser.svg?branch=master)](ht
 This is a pretty simple text analyser written in Ruby.
 
 ## Usage
-[TODO]
+Just pass a file as a parameter to the analyser
+```sh
+./analyser <path/to/file>
+```
+
+In case you get permission error, just run:
+```sh
+chmod +x analyser
+```
 
 ## Demo
 ```

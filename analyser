@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+require './lib/text_analyser'
+
+file = File.readlines(ARGV.first)
+puts TextAnalyser.new(file).report
