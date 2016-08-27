@@ -1,8 +1,6 @@
 ## Ruby Text Analyser
 [![Code
 Climate](https://codeclimate.com/github/pablobfonseca/text-analyser/badges/gpa.svg)](https://codeclimate.com/github/pablobfonseca/text-analyser)
-[![Test
-Coverage](https://codeclimate.com/github/pablobfonseca/text-analyser/badges/coverage.svg)](https://codeclimate.com/github/pablobfonseca/text-analyser/coverage)
 [![Build
 Status](https://travis-ci.org/pablobfonseca/text-analyser.svg?branch=master)](https://travis-ci.org/pablobfonseca/text-analyser)
 
